@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE3NjUyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4RGM1QmU0Mjg2MEZBRDQ3MTFlQTQ5Nzk4QzE2RDRmMjgwQUMxMzZGMyJ9",
+    "payload": "eyJkb21haW4iOiJ1c2RjLWNvdW50ZXIudmVyY2VsLmFwcCJ9",
+    "signature": "MHgxNTYzYTk5NTk0ZmJlMDM2ZDZiZTg1YzQ0MDQyYzgyMjE2ZTBiZGY0NzdkMmE0MmFlYjFmMTUzMWZkZGY5MjI1NDNhYjUxZDUwY2ViYzdlM2UyMGQ4NTkwM2ZhNDVmNGMxN2EyZWVlMjEzMTRhZTRkNzlhMmY0NmIwYzQ0MGUxMTFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Farcaster Pro",
+    "iconUrl": "https://usdc-counter.vercel.app/icon.png",
+    "homeUrl": "https://usdc-counter.vercel.app",
+    "imageUrl": "https://usdc-counter.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://usdc-counter.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://usdc-counter.vercel.app/api/webhook"
+  }
+}
