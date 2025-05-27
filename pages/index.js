@@ -21,7 +21,7 @@ export default function Home() {
 
   return (
     <main style={{ textAlign: 'center', marginTop: '80px', fontFamily: 'Arial' }}>
-      <h1>Total USDC Received</h1>
+      <h1>Farcaster Pro Subscription</h1>
       <h2>{usdc === null ? 'Loading...' : `${usdc} USDC`}</h2>
     </main>
   );
